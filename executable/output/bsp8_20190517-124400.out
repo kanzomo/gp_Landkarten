@@ -1,0 +1,15 @@
+reset
+set xrange [-0.6213203435597126:3.621320343559713]
+set yrange [-2.121320343559713:2.121320343559713]
+set size ratio 1.0
+set title "FlÃ¤che der Staaten, Iteration: 3"
+unset xtics
+unset ytics
+$data << EOD
+0.08578643762685834 0.0 0.7071067811865709 D 0
+1.0 0.0 0.7071067811865709 NL 1
+2.914213562373142 0.0 0.7071067811865709 B 2
+EOD
+plot \
+'$data' using 1:2:3:5 with circles lc var notitle, \
+'$data' using 1:2:4:5 with labels font "arial, 9" tc variable notitle

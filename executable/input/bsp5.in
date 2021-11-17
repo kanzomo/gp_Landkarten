@@ -1,0 +1,21 @@
+Fläche der Staaten
+# Staat Fläche Längengrad Breitengrad
+D    600 	10.0	51.3
+NL	 600 	 5.3 	52.2
+B	 600 	 4.8	50.7
+L	 600 	 6.1 	49.8
+F	 600 	 2.8	47.4 
+CH	 600 	 8.2	46.9
+A	 600	14.2	47.6
+CZ	 600	15.3	49.8
+PL	 600	18.9	52.2
+DK	 600	 9.6	56.0
+# Nachbarschaften
+D: NL B L F CH A CZ PL DK
+NL: B
+B: L F
+L: F
+F: CH
+CH: A
+A: CZ
+CZ: PL
