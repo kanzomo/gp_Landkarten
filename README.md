@@ -1,7 +1,7 @@
 # Apprenticeship Graduation Project: Landkarten
 
-This project was created in 4.5 days to graduate from my 3-year apprenticeship program.
-I was given the requirements and was supposed to design and implement a solution, the first day was to be exclusively used for pre-planning on paper.
+This project was created in 4.5 days to graduate from my 3-year apprenticeship program.  
+I was given the requirements and was supposed to design and implement a solution, the first day was to be exclusively used for pre-planning on paper.  
 A more detailed documentation (in german) can be found [here](https://raw.githubusercontent.com/kanzomo/gp_Landkarten/main/doc/IHK_2019SS_Abgabe_KanzM_Dokumentation.pdf) and was created as part of the exam in the given 4.5 day period.
 
 example input:
@@ -101,6 +101,6 @@ plot \
 
 Visualized output:
 
-![test](case_task_03_out.png)
+![map](case_task_03_out.png)
 
-*note: the visualization was outside the scope of the project and was done with a provided tool*
+*note: the visualization was outside the scope of the project and can be done with gnuplot*
