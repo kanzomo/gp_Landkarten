@@ -1,6 +1,6 @@
 # Apprenticeship Graduation Project: Landkarten
 
-This project was created in 4.5 days to graduate from my 3-year apprenticeship program.  
+This project was created in 4.5 days to graduate from my 3-year apprenticeship program in 2019.  
 I was given the requirements and was supposed to design and implement a solution, the first day was to be exclusively used for pre-planning on paper.  
 A more detailed documentation (in german) can be found [here](https://raw.githubusercontent.com/kanzomo/gp_Landkarten/main/doc/IHK_2019SS_Abgabe_KanzM_Dokumentation.pdf) and was created as part of the exam in the given 4.5 day period.
 
